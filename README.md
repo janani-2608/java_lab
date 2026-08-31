@@ -86,3 +86,30 @@ Mobile Number: 9080090080
  Grosssalary =43820.0
  Netsalary =41400.0
                                                      
+
+==============EX4==============
+┌──(kali㉿kali)-[~/Desktop/java/ex4]
+└─$ java ex4
+Enter values : 
+200
+300
+Area of Rectangle is 60000.0
+Area of Triangle is 30000.0
+Area of Circle is 125714.0
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/java/ex4]
+└─$ java ex4
+Enter values : 
+270
+200
+Area of Rectangle is 54000.0
+Area of Triangle is 27000.0
+Area of Circle is 229114.0
+
+
+
+
+
+
+
+
