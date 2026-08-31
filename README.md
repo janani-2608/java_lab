@@ -1,3 +1,18 @@
+=========EX1===========
+┌──(kali㉿kali)-[~/Desktop/java]
+└─$ java ebill
+Enter Consumer number: 2000
+Enter Consumer name: janani
+Enter Type of Connection (domestic/commercial): commercial
+Enter current Reading: 900
+Enter previous Reading: 1200
+Customer Name: janani
+Units Consumed: 300.0
+Total Bill: Rs. 1800.0
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/java]
+└─$ 
+
 ==========EX2 ===============
 ┌──(kali㉿kali)-[~/Desktop/java/EX2]
 └─$ java ex2convertor 
