@@ -120,6 +120,37 @@ Enter values :
 Area of Rectangle is 54000.0
 Area of Triangle is 27000.0
 Area of Circle is 229114.0
+==========EX5============
+┌──(kali㉿kali)-[~/Desktop/java]
+└─$ java ex5
+Implementation of Stack using Array
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+3
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+5
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+7
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+8
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+3
+Elements are:  3 <-- 5 <-- 7 <-- 8 <--
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+4
 
 
 
