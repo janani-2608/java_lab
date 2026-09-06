@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ebill {
+public class ex1 {
     public static void main(String[] args) {
         Consumer ob = new Consumer();
         ob.Getdata();
