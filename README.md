@@ -191,6 +191,36 @@ Main Thread and Generated Number is 11
 New Thread 11 is ODD and Cube of 11 is: 1331
 New Thread 11 is EVEN and Square of 11 is: 121
 
+=============OUTPUT EX 8=================== (kali㉿kali)-[~/javalab] └─$ java InterThreadCommunication Produced: 1 Consumed: 1 Produced: 2 Consumed: 2 Produced: 3 Consumed: 3 Produced: 4 Consumed: 4 Produced: 5 Consumed: 5
+
+==============OUTPUT EX 9================== ┌──(kali㉿kali)-[~/javalab] └─$ java ArrayListExample
+
+Currently the array list obj1 has following elements:[Ajeet, Harry, Chaitanya, Steve, Anuj]
+
+ArrayList obj1 after add All:[Ajeet, Harry, Chaitanya, Steve, Anuj, Babu, Kamal, Alice, Bob, Raj]
+
+ArrayList obj1 after add element at the given index:[Rahul, Justin, Ajeet, Harry, Chaitanya, Steve, Anuj, Babu, Kamal, Alice, Bob, Raj]
+
+Enter the Search element: Babu
+
+ArrayList obj1 contains the string Babu :true
+
+Current array list of obj1 after removing element is:[Rahul, Justin, Ajeet, Steve, Anuj, Babu, Kamal, Alice, Bob, Raj]
+
+Current array list of obj1 after removing element through index is:[Rahul, Ajeet, Steve, Anuj, Babu, Kamal, Alice, Bob, Raj]
+
+Enter the letter to display all the string start with given letter: R
+
+ArrayList obj1 contains all the string start with given R:[Rahul, Raj]
+
+=================OUTPUT EX 10================= ──(kali㉿kali)-[~/javalab] └─$ java FileDemo Fibonacci.java File Name:Fibonacci.java Path:Fibonacci.java Abs Path:/home/kali/javalab/Fibonacci.java Parent:null This file is:Does not exists Is file:false Is Directory:false Is Readable:false IS Writable:false Is Absolute:false File Last Modified:0 File Size:0bytes Is Hidden:false
+
+================OUTPUT EX 12================== ──(kali㉿kali)-[~/javalab] └─$ java reservation
+
+Railway Reservation For Kabul Express
+
+Book ticket Cancel ticket Search passenger Reservation chart Display unbooked tickets Exit Please enter your choice 1 Please enter the class of ticket AC 2. First 3. Sleeper 1 Please enter no. of tickets 1 Please enter your name Sanjay Please enter your age 20 Please enter your phno 8767897676 Ticket successfully booked Please pay Rs.1500
+
 
 
 
